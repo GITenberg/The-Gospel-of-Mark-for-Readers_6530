@@ -1,11 +1,16 @@
 _repo: The-Gospel-of-Mark-for-Readers_6530
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Lightheart
     gutenberg_agent_id: '1831'
     url: http://www.gutenberg.org/2009/agents/1831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6530#The-Gospel-of-Mark-for-Readers
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
